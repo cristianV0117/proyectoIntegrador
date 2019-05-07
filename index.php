@@ -1,3 +1,7 @@
+<?php
+setlocale(LC_TIME, 'es_ES.UTF-8');
+setlocale(LC_TIME, 'es_ES');
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +25,7 @@
 	          Sistemas operativos
 	        </a>
 	        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	          <a href="../pagPresentacion/vistas/videosInstalacion.html" class="dropdown-item" href="#">Videos de instalación</a>
+	          <a href="../pagPresentacion/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalación</a>
 	        </div>
 	      </li>
 	      <li class="nav-item active dropdown">
@@ -29,7 +33,7 @@
 	          Introducción al hardware
 	        </a>
 	        <div  class="dropdown-menu" aria-labelledby="navbarNavDropdown">
-	        	<a class="dropdown-item" href="../pagPresentacion/vistas/mantenimientos.html">Mantenimientos</a>
+	        	<a class="dropdown-item" href="../pagPresentacion/vistas/mantenimientos.php">Mantenimientos</a>
 	        	<a class="dropdown-item" href="#">Documento</a>
 	        </div>
 	      </li>
