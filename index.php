@@ -69,7 +69,7 @@ setlocale(LC_TIME, 'es_ES');
 							  	<p>
 							  		<br>
 							  		Este trabajo es con fines educativos en el cual se podra apreciar 3 areas en el campo de la ingenieria en sistemas.<br>
-							  		En <strong>introducción al hardware</strong> Se tendra 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un video para el mantenimiento preventivo y un formato de mantenimiento preventivo.
+							  		En <strong>introduccion al hardware</strong> Se tendra 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un video para el mantenimiento preventivo y un formato de mantenimiento preventivo.
 							  		<br>
 							  		En <strong>Sistemas operativos</strong> Se tendra 5 videos de instalacion de diferentes sistemas operativos los cuales, en este caso son:
 							  		<br>
@@ -91,7 +91,7 @@ setlocale(LC_TIME, 'es_ES');
 							  		<br>
 							  		<strong>Objetivos generales</strong>
 							  		<strong>
-							  			<li>Poner en producción el conocimiento adquirido durante nuestra etapa de estudio</li>
+							  			<li>Poner en produccion el conocimiento adquirido durante nuestra etapa de estudio</li>
 							  			<li>Conocer nuevas herramientas para los diferentes campos de la ingeniera en sistemas</li>
 							  			<li>Unir los diferentes trabajos en uno para dar a conocer un solo resultado, producto de 3 de areas distintas</li>
 							  		</strong>
@@ -109,7 +109,7 @@ setlocale(LC_TIME, 'es_ES');
 				<div class="card col-md-12">
 			  		<div class="card-body">
 			    		<center>
-			    			<strong>Derechos reservados - Fundacion universitaria San Mateo</strong>
+			    			<strong>Derechos reservados © Fundacion universitaria San Mateo</strong>
 			    		</center>
 			  		</div>
 				</div>
