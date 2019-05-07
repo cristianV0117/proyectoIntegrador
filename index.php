@@ -25,12 +25,12 @@ setlocale(LC_TIME, 'es_ES');
 	          Sistemas operativos
 	        </a>
 	        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	          <a href="/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalación</a>
+	          <a href="/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalacion</a>
 	        </div>
 	      </li>
 	      <li class="nav-item active dropdown">
 	      	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-	          Introducción al hardware
+	          Introduccion al hardware
 	        </a>
 	        <div  class="dropdown-menu" aria-labelledby="navbarNavDropdown">
 	        	<a class="dropdown-item" href="/vistas/mantenimientos.php">Mantenimientos</a>
@@ -55,12 +55,12 @@ setlocale(LC_TIME, 'es_ES');
 							<br>
 							<li>Nicolas Maldonado</li>
 							<li>Cristian Vasquez</li>
-							<li>Cristian Briñez</li>
+							<li>Cristian Brinez</li>
 						</div>
 						<div class="col-md-9" >
 							<nav>
 							  <div class="nav nav-tabs" id="nav-tab" role="tablist">
-							    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Introducción</a>
+							    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Introduccion</a>
 							    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Objetivos</a>
 							  </div>
 							</nav>
@@ -68,10 +68,10 @@ setlocale(LC_TIME, 'es_ES');
 							  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							  	<p>
 							  		<br>
-							  		Este trabajo es con fines educativos en el cual se podrá apreciar 3 areas en el campo de la ingenieria en sistemas.<br>
-							  		En <strong>introducción al hardware</strong> Se tendrá 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un video para el mantenimiento preventivo y un formato de mantenimiento preventivo.
+							  		Este trabajo es con fines educativos en el cual se podra apreciar 3 areas en el campo de la ingenieria en sistemas.<br>
+							  		En <strong>introducción al hardware</strong> Se tendra 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un video para el mantenimiento preventivo y un formato de mantenimiento preventivo.
 							  		<br>
-							  		En <strong>Sistemas operativos</strong> Se tendrá 5 videos de instalacion de diferentes sistemas operativos los cuales, en este caso son:
+							  		En <strong>Sistemas operativos</strong> Se tendra 5 videos de instalacion de diferentes sistemas operativos los cuales, en este caso son:
 							  		<br>
 							  		<strong>
 							  		windows 10<br>
@@ -80,10 +80,10 @@ setlocale(LC_TIME, 'es_ES');
 							  		Linux<br>
 							  		WEB<br>
 							  		</strong>
-							  		Ajunto a ello se encuentran los respectivos manuales de instalación.
+							  		Ajunto a ello se encuentran los respectivos manuales de instalacion.
 							  		<br>
-							  		En <strong>Logica de programación</strong> Se encuentra el uso de un programa elaborado en el lenguaje JAVA donde se realiza un menú en el cual adjuntaremos el respectivo sitio web.
-							  		El diseño se basó en el uso de JFrame para la interfaz grafica del sitio
+							  		En <strong>Logica de programacion</strong> Se encuentra el uso de un programa elaborado en el lenguaje JAVA donde se realiza un menu en el cual adjuntaremos el respectivo sitio web.
+							  		La estructura grafica se baso en el uso de JFrame para la interfaz grafica del sitio
 							  	</p>
 							  </div>
 							  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
@@ -109,7 +109,7 @@ setlocale(LC_TIME, 'es_ES');
 				<div class="card col-md-12">
 			  		<div class="card-body">
 			    		<center>
-			    			<strong>Derechos reservados © Fundación universitaria San Mateo</strong>
+			    			<strong>Derechos reservados - Fundacion universitaria San Mateo</strong>
 			    		</center>
 			  		</div>
 				</div>
