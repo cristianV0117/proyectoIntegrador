@@ -38,7 +38,7 @@
 			  	<div class="text-center" >
 				  	<strong>Video de instalación de Windows 10</strong>
 				  	<br>
-				  	<a href="#" >Manual de la instalacion de Windows 10</a>
+				  	<a href="../media/manu.docx" >Manual de la instalacion de Windows 10</a>
 				  	<hr>
 				  	<iframe width="600" height="350" src="https://www.youtube.com/embed/3iLE-NL_rag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
