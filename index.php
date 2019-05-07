@@ -25,7 +25,7 @@ setlocale(LC_TIME, 'es_ES');
 	          Sistemas operativos
 	        </a>
 	        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	          <a href="../pagPresentacion/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalación</a>
+	          <a href="/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalación</a>
 	        </div>
 	      </li>
 	      <li class="nav-item active dropdown">
@@ -33,7 +33,7 @@ setlocale(LC_TIME, 'es_ES');
 	          Introducción al hardware
 	        </a>
 	        <div  class="dropdown-menu" aria-labelledby="navbarNavDropdown">
-	        	<a class="dropdown-item" href="../pagPresentacion/vistas/mantenimientos.php">Mantenimientos</a>
+	        	<a class="dropdown-item" href="/vistas/mantenimientos.php">Mantenimientos</a>
 	        	<a class="dropdown-item" href="#">Documento</a>
 	        </div>
 	      </li>
