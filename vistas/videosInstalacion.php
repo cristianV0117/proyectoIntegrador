@@ -30,7 +30,10 @@
 			    <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Windows 8</a>
 			  </li>
 			  <li class="nav-item">
-			    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Ubuntu</a>
+			    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Linux Ubuntu</a>
+			  </li>
+			  <li class="nav-item" >
+			  	<a class="nav-link" id="pills-lite-tab" data-toggle="pill" href="#pills-lite" role="tab" arial-controls="pills-lite" aria-selected="false">Linux Lite</a>
 			  </li>
 			</ul>
 			<div class="tab-content" id="pills-tabContent">
@@ -40,28 +43,37 @@
 				  	<br>
 				  	<a href="../media/manu.docx" >Manual de la instalacion de Windows 10</a>
 				  	<hr>
-				  	<iframe width="600" height="350" src="https://www.youtube.com/embed/3iLE-NL_rag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="350" src="https://www.youtube.com/watch?v=CsmYhdvmqGQ&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			  <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 			  	<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 			  	<div class="text-center" >
-				  	<strong>Video de instalación de Windows 8</strong>
+				  	<strong>Video de instalacion de Windows 8.1</strong>
 				  	<br>
 				  	<a href="#" >Manual de la instalacion de Windows 8</a>
 				  	<hr>
-				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/_7sytSvdKoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/watch?v=aJ10s8Ai3Ik&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			  </div>
 			  <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
 			  	<div class="text-center" >
-				  	<strong>Video de instalación de Ubuntu</strong>
+				  	<strong>Video de instalacion de Linux Ubuntu</strong>
 				  	<br>
 				  	<a href="#" >Manual de la instalacion de Ubuntu</a>
 				  	<hr>
-				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/_7sytSvdKoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/watch?v=xsHCL_EZNTk&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
+			  </div>
+			  <div class="tab-pane fade" id="pills-lite" role="tabpanel" aria-labelldby="pills-lite-tab">
+			  	<div class="text-center" >
+			  		<strong>Video de instalacion de Linux Lite</strong>
+			  		<br>
+			  		<a href="#" >Manual de instalacion de Linux Lite</a>
+			  		<hr>
+			  		<iframe width="600" height="315" src="https://www.youtube.com/watch?v=W_S3J5oNfFI&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  	</div>
 			  </div>
 			</div>
 		</div>
