@@ -43,7 +43,7 @@
 				  	<br>
 				  	<a href="../media/manu.docx" >Manual de la instalacion de Windows 10</a>
 				  	<hr>
-				  	<iframe width="600" height="350" src="https://youtu.be/CsmYhdvmqGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/CsmYhdvmqGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			  <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
@@ -53,7 +53,7 @@
 				  	<br>
 				  	<a href="#" >Manual de la instalacion de Windows 8</a>
 				  	<hr>
-				  	<iframe width="600" height="315" src="https://youtu.be/aJ10s8Ai3Ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/aJ10s8Ai3Ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			  </div>
@@ -63,7 +63,7 @@
 				  	<br>
 				  	<a href="#" >Manual de la instalacion de Ubuntu</a>
 				  	<hr>
-				  	<iframe width="600" height="315" src="https://youtu.be/xsHCL_EZNTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/xsHCL_EZNTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			  <div class="tab-pane fade" id="pills-lite" role="tabpanel" aria-labelldby="pills-lite-tab">
@@ -72,7 +72,7 @@
 			  		<br>
 			  		<a href="#" >Manual de instalacion de Linux Lite</a>
 			  		<hr>
-			  		<iframe width="600" height="315" src="https://youtu.be/W_S3J5oNfFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/W_S3J5oNfFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  	</div>
 			  </div>
 			</div>
