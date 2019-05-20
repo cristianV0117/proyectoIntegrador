@@ -69,7 +69,6 @@
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/xsHCL_EZNTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
-<<<<<<< HEAD
 			  <div class="tab-pane fade" id="pills-silver" role="tabpanel" aria-labelldby="pills-silver-tab" >
 			  	<div class="text-center" >
 			  		<strong>Video de instalacion de SilverLight</strong>
@@ -77,7 +76,6 @@
 			  		<a href="#" >Manual de la instalacion de SilverLight</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/LJRrUHJHvuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-=======
 			  <div class="tab-pane fade" id="pills-lite" role="tabpanel" aria-labelldby="pills-lite-tab">
 			  	<div class="text-center" >
 			  		<strong>Video de instalacion de Linux Lite</strong>
@@ -85,7 +83,6 @@
 			  		<a href="#" >Manual de instalacion de Linux Lite</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/W_S3J5oNfFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->>>>>>> a6f2ccd3e3c69f0ee39009b940794ac8c77478e4
 			  	</div>
 			  </div>
 			</div>
