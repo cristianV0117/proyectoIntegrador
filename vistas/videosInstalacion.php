@@ -32,6 +32,9 @@
 			  <li class="nav-item">
 			    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Ubuntu</a>
 			  </li>
+			  <li class="nav-item" >
+			  	<a class="nav-link" id="pills-silver-tab" data-toggle="pill" href="#pills-silver" role="tab" aria-controls="pills-silver" aria-selected="false" >SilverLight (WEB)</a>
+			  </li>
 			</ul>
 			<div class="tab-content" id="pills-tabContent">
 			  <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
@@ -62,6 +65,15 @@
 				  	<hr>
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/_7sytSvdKoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
+			  </div>
+			  <div class="tab-pane fade" id="pills-silver" role="tabpanel" aria-labelldby="pills-silver-tab" >
+			  	<div class="text-center" >
+			  		<strong>Video de instalacion de SilverLight</strong>
+			  		<br>
+			  		<a href="#" >Manual de la instalacion de SilverLight</a>
+			  		<hr>
+			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/LJRrUHJHvuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  	</div>
 			  </div>
 			</div>
 		</div>
