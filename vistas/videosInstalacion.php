@@ -30,7 +30,10 @@
 			    <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Windows 8</a>
 			  </li>
 			  <li class="nav-item">
-			    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Ubuntu</a>
+			    <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Linux Ubuntu</a>
+			  </li>
+			  <li class="nav-item" >
+			  	<a class="nav-link" id="pills-lite-tab" data-toggle="pill" href="#pills-lite" role="tab" arial-controls="pills-lite" aria-selected="false">Linux Lite</a>
 			  </li>
 			  <li class="nav-item" >
 			  	<a class="nav-link" id="pills-silver-tab" data-toggle="pill" href="#pills-silver" role="tab" aria-controls="pills-silver" aria-selected="false" >SilverLight (WEB)</a>
@@ -41,31 +44,32 @@
 			  	<div class="text-center" >
 				  	<strong>Video de instalación de Windows 10</strong>
 				  	<br>
-				  	<a href="../media/manu.docx" >Manual de la instalacion de Windows 10</a>
+				  	<a href="../media/manual_instalacion_windows_10.docx" >Manual de la instalacion de Windows 10</a>
 				  	<hr>
-				  	<iframe width="600" height="350" src="https://www.youtube.com/embed/3iLE-NL_rag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/CsmYhdvmqGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			  <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 			  	<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 			  	<div class="text-center" >
-				  	<strong>Video de instalación de Windows 8</strong>
+				  	<strong>Video de instalacion de Windows 8.1</strong>
 				  	<br>
 				  	<a href="#" >Manual de la instalacion de Windows 8</a>
 				  	<hr>
-				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/_7sytSvdKoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/aJ10s8Ai3Ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			  </div>
 			  <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
 			  	<div class="text-center" >
-				  	<strong>Video de instalación de Ubuntu</strong>
+				  	<strong>Video de instalacion de Linux Ubuntu</strong>
 				  	<br>
-				  	<a href="#" >Manual de la instalacion de Ubuntu</a>
+				  	<a href="../media/instalacion_de_ubuntu_manual.docx" >Manual de la instalacion de Ubuntu</a>
 				  	<hr>
-				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/_7sytSvdKoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/xsHCL_EZNTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
+<<<<<<< HEAD
 			  <div class="tab-pane fade" id="pills-silver" role="tabpanel" aria-labelldby="pills-silver-tab" >
 			  	<div class="text-center" >
 			  		<strong>Video de instalacion de SilverLight</strong>
@@ -73,6 +77,15 @@
 			  		<a href="#" >Manual de la instalacion de SilverLight</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/LJRrUHJHvuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+			  <div class="tab-pane fade" id="pills-lite" role="tabpanel" aria-labelldby="pills-lite-tab">
+			  	<div class="text-center" >
+			  		<strong>Video de instalacion de Linux Lite</strong>
+			  		<br>
+			  		<a href="#" >Manual de instalacion de Linux Lite</a>
+			  		<hr>
+			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/W_S3J5oNfFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> a6f2ccd3e3c69f0ee39009b940794ac8c77478e4
 			  	</div>
 			  </div>
 			</div>

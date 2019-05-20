@@ -35,6 +35,7 @@ setlocale(LC_TIME, 'es_ES');
 	        <div  class="dropdown-menu" aria-labelledby="navbarNavDropdown">
 	        	<a class="dropdown-item" href="/vistas/mantenimientos.php">Mantenimientos</a>
 	        	<a class="dropdown-item" href="#">Documento</a>
+	        	<a class="dropdown-item" href="https://youtu.be/qjq9tA5jcjA" > Video mantenimiento preventivo</a>
 	        </div>
 	      </li>
 	    </ul>
