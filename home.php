@@ -6,11 +6,11 @@ setlocale(LC_TIME, 'es_ES');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Pagina de presentaciÛn</title>
+	<title>Pagina de presentaci√≥n</title>
 	<link rel="stylesheet" type="text/css" href="externos/bootstrap4/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="publico/css/estilosHome.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="trabajo" content="Cristian Vasquez - Nicolas Maldonado - Cristian BriÒez">
+	<meta name="trabajo" content="Cristian Vasquez - Nicolas Maldonado - Cristian Bri√±ez">
 	<meta name="Autor" content="Cristian Camilo Vasquez Osorio">
 </head>
 <body>
@@ -27,12 +27,12 @@ setlocale(LC_TIME, 'es_ES');
 	          Sistemas operativos
 	        </a>
 	        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	          <a href="/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalaciÛn</a>
+	          <a href="/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalaci√≥n</a>
 	        </div>
 	      </li>
 	      <li class="nav-item active dropdown">
 	      	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-	          IntroducciÛn al hardware
+	          Introducci√≥n al hardware
 	        </a>
 	        <div  class="dropdown-menu" aria-labelledby="navbarNavDropdown">
 	        	<a class="dropdown-item" href="/vistas/mantenimientos.php">Mantenimientos</a>
@@ -58,12 +58,12 @@ setlocale(LC_TIME, 'es_ES');
 							<br>
 							<li>Nicolas Maldonado</li>
 							<li>Cristian Vasquez</li>
-							<li>Cristian BriÒez</li>
+							<li>Cristian Bri√±ez</li>
 						</div>
 						<div class="col-md-9" >
 							<nav>
 							  <div class="nav nav-tabs" id="nav-tab" role="tablist">
-							    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">IntroducciÛn</a>
+							    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Introducci√≥n</a>
 							    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Objetivos</a>
 							  </div>
 							</nav>
@@ -71,11 +71,11 @@ setlocale(LC_TIME, 'es_ES');
 							  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							  	<P align="justify">
 							  		<br>
-							  		Este trabajo es con fines educativos en el cual se podr· apreciar 3 ·reas en el campo de la ingenierÌa en sistemas.
+							  		Este trabajo es con fines educativos en el cual se podr√° apreciar 3 √°reas en el campo de la ingenier√≠a en sistemas.
 							  		<br>
-									En <strong>introducciÛn al hardware </strong> Se tendr· 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un vÌdeo para el mantenimiento preventivo y un formato de mantenimiento preventivo.
+									En <strong>introducci√≥n al hardware </strong> Se tendr√° 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un v√≠deo para el mantenimiento preventivo y un formato de mantenimiento preventivo.
 									<br>
-									En <strong>Sistemas operativos</strong> Se tendr· 5 vÌdeos de instalaciÛn de diferentes sistemas operativos los cuales, en este caso son:
+									En <strong>Sistemas operativos</strong> Se tendr√° 5 v√≠deos de instalaci√≥n de diferentes sistemas operativos los cuales, en este caso son:
 							  		<br>
 							  		<strong>
 							  		Windows 10<br>
@@ -85,10 +85,10 @@ setlocale(LC_TIME, 'es_ES');
 							  		Silverlight<br>
 							  		Lubuntu<br>
 							  		</strong>
-							  		Ajunto a ello se encuentran los respectivos manuales de instalaciÛn.
+							  		Ajunto a ello se encuentran los respectivos manuales de instalaci√≥n.
 							  		<br>
-							  		En <strong>LÛgica de programaciÛn</strong> Se encuentra el uso de un programa elaborado en el lenguaje JAVA donde se realiza un men˙ en el cual adjuntaremos el respectivo sitio web.
-							  		La estructura gr·fica se baso en el uso de JFrame para la interfaz gr·fica del sitio
+							  		En <strong>L√≥gica de programaci√≥n</strong> Se encuentra el uso de un programa elaborado en el lenguaje JAVA donde se realiza un men√∫ en el cual adjuntaremos el respectivo sitio web.
+							  		La estructura gr√°fica se baso en el uso de JFrame para la interfaz gr√°fica del sitio
 							  	</p>
 							  </div>
 							  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
@@ -96,9 +96,9 @@ setlocale(LC_TIME, 'es_ES');
 							  		<br>
 							  		<strong>Objetivos generales</strong>
 							  		<strong>
-							  			<li>Poner en producciÛn el conocimiento adquirido durante nuestra etapa de estudio</li>
+							  			<li>Poner en producci√≥n el conocimiento adquirido durante nuestra etapa de estudio</li>
 							  			<li>Conocer nuevas herramientas para los diferentes campos de la ingeniera en sistemas</li>
-							  			<li>Unir los diferentes trabajos en uno para dar a conocer un solo resultado, producto de 3 de ·reas distintas</li>
+							  			<li>Unir los diferentes trabajos en uno para dar a conocer un solo resultado, producto de 3 de √°reas distintas</li>
 							  		</strong>
 							  	</p>
 							  </div>
@@ -114,7 +114,7 @@ setlocale(LC_TIME, 'es_ES');
 				<div class="card col-md-12">
 			  		<div class="card-body">
 			    		<center>
-			    			<strong>Derechos reservados © FundaciÛn universitaria San Mateo</strong>
+			    			<strong>Derechos reservados ¬© Fundaci√≥n universitaria San Mateo</strong>
 			    		</center>
 			  		</div>
 				</div>
