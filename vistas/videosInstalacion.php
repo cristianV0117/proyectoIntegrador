@@ -36,7 +36,10 @@
 			  	<a class="nav-link" id="pills-lite-tab" data-toggle="pill" href="#pills-lite" role="tab" arial-controls="pills-lite" aria-selected="false">Linux Lite</a>
 			  </li>
 			  <li class="nav-item" >
-			  	<a class="nav-link" id="pills-silver-tab" data-toggle="pill" href="#pills-silver" role="tab" aria-controls="pills-silver" aria-selected="false" >SilverLight (WEB)</a>
+			  	<a class="nav-link" id="pills-silver-tab" data-toggle="pill" href="#pills-silver" role="tab" aria-controls="pills-silver" aria-selected="false" >SilverLight</a>
+			  </li>
+			  <li class="nav-item" >
+			  	<a class="nav-link" id="pills-lubuntu-tab" data-toggle="pill" href="$pills-lubuntu" role="tab" aria-controls="pills-lubuntu" aria-selected="false" >Lubuntu</a>
 			  </li>
 			</ul>
 			<div class="tab-content" id="pills-tabContent">
@@ -44,7 +47,7 @@
 			  	<div class="text-center" >
 				  	<strong>Video de instalación de Windows 10</strong>
 				  	<br>
-				  	<a target="_blank" href="../media/manual_instalacion_windows_10.pdf" >Manual de la instalacion de Windows 10</a>
+				  	<a target="_blank" href="../media/manual_instalacion_windows_10.pdf" >Manual de la instalación de Windows 10</a>
 				  	<hr>
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/CsmYhdvmqGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
@@ -52,9 +55,9 @@
 			  <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 			  	<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 			  	<div class="text-center" >
-				  	<strong>Video de instalacion de Windows 8.1</strong>
+				  	<strong>Video de instalación de Windows 8.1</strong>
 				  	<br>
-				  	<a target="_blank" href="#" >Manual de la instalacion de Windows 8</a>
+				  	<a target="_blank" href="#" >Manual de la instalación de Windows 8</a>
 				  	<hr>
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/aJ10s8Ai3Ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
@@ -62,31 +65,40 @@
 			  </div>
 			  <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
 			  	<div class="text-center" >
-				  	<strong>Video de instalacion de Linux Ubuntu</strong>
+				  	<strong>Video de instalación de Linux Ubuntu</strong>
 				  	<br>
-				  	<a target="_blank" href="../media/instalacion_de_ubuntu_manual.pdf" >Manual de la instalacion de Ubuntu</a>
+				  	<a target="_blank" href="../media/instalacion_de_ubuntu_manual.pdf" >Manual de la instalación de Ubuntu</a>
 				  	<hr>
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/xsHCL_EZNTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			  </div>
 			   <div class="tab-pane fade" id="pills-lite" role="tabpanel" aria-labelldby="pills-lite-tab">
 			  	<div class="text-center" >
-			  		<strong>Video de instalacion de Linux Lite</strong>
+			  		<strong>Video de instalación de Linux Lite</strong>
 			  		<br>
-			  		<a target="_blank" href="../media/instalacion_de_lite_manual.pdf" >Manual de instalacion de Linux Lite</a>
+			  		<a target="_blank" href="../media/instalacion_de_lite_manual.pdf" >Manual de instalación de Linux Lite</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/W_S3J5oNfFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  	</div>
 			  </div>
 			  <div class="tab-pane fade" id="pills-silver" role="tabpanel" aria-labelldby="pills-silver-tab" >
 			  	<div class="text-center" >
-			  		<strong>Video de instalacion de SilverLight</strong>
+			  		<strong>Video de instalación de SilverLight</strong>
 			  		<br>
-			  		<a target="_blank" href="../media/manual_de_instalacion_de_silverlight.pdf" >Manual de la instalacion de SilverLight</a>
+			  		<a target="_blank" href="../media/manual_de_instalacion_de_silverlight.pdf" >Manual de la instalación de SilverLight</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/LJRrUHJHvuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  	</div>
-			</div>
+			  </div>
+			  <div class="tab-pane fade" id="pills-lubuntu" role="tabpanel" aria-labelldby="pills-lubuntu-tab" >
+			  	<div class="text-center" >
+			  		<strong>Video de instalación de Lubuntu</strong>
+			  		<br>
+			  		<a href="#">Manual de la instalación de Lubuntu</a>
+			  		<hr>
+			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/DvODxWODC34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  	</div>
+			  </div>
 		</div>
 		<div class="card col-md-12">
 			<div class="card-body">

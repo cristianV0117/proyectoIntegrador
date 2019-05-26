@@ -3,12 +3,14 @@ setlocale(LC_TIME, 'es_ES.UTF-8');
 setlocale(LC_TIME, 'es_ES');
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Pagina de presentacion</title>
+	<title>Pagina de presentación</title>
 	<link rel="stylesheet" type="text/css" href="externos/bootstrap4/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="publico/css/estilosHome.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="trabajo" content="Cristian Vasquez - Nicolas Maldonado - Cristian Briñez">
 	<meta name="Autor" content="Cristian Camilo Vasquez Osorio">
 </head>
 <body>
@@ -25,12 +27,12 @@ setlocale(LC_TIME, 'es_ES');
 	          Sistemas operativos
 	        </a>
 	        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	          <a href="/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalacion</a>
+	          <a href="/vistas/videosInstalacion.php" class="dropdown-item" href="#">Videos de instalación</a>
 	        </div>
 	      </li>
 	      <li class="nav-item active dropdown">
 	      	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-	          Introduccion al hardware
+	          Introducción al hardware
 	        </a>
 	        <div  class="dropdown-menu" aria-labelledby="navbarNavDropdown">
 	        	<a class="dropdown-item" href="/vistas/mantenimientos.php">Mantenimientos</a>
@@ -56,45 +58,47 @@ setlocale(LC_TIME, 'es_ES');
 							<br>
 							<li>Nicolas Maldonado</li>
 							<li>Cristian Vasquez</li>
-							<li>Cristian Brinez</li>
+							<li>Cristian Briñez</li>
 						</div>
 						<div class="col-md-9" >
 							<nav>
 							  <div class="nav nav-tabs" id="nav-tab" role="tablist">
-							    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Introduccion</a>
+							    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Introducción</a>
 							    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Objetivos</a>
 							  </div>
 							</nav>
 							<div class="tab-content" id="nav-tabContent">
 							  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-							  	<p>
+							  	<P align="justify">
 							  		<br>
-							  		Este trabajo es con fines educativos en el cual se podra apreciar 3 areas en el campo de la ingenieria en sistemas.<br>
-							  		En <strong>introduccion al hardware</strong> Se tendra 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un video para el mantenimiento preventivo y un formato de mantenimiento preventivo.
+							  		Este trabajo es con fines educativos en el cual se podrá apreciar 3 áreas en el campo de la ingeniería en sistemas.
 							  		<br>
-							  		En <strong>Sistemas operativos</strong> Se tendra 5 videos de instalacion de diferentes sistemas operativos los cuales, en este caso son:
+									En <strong>introducción al hardware </strong> Se tendrá 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un vídeo para el mantenimiento preventivo y un formato de mantenimiento preventivo.
+									<br>
+									En <strong>Sistemas operativos</strong> Se tendrá 5 vídeos de instalación de diferentes sistemas operativos los cuales, en este caso son:
 							  		<br>
 							  		<strong>
-							  		windows 10<br>
-							  		windows 8<br>
-							  		Linux<br>
-							  		Linux<br>
-							  		WEB<br>
+							  		Windows 10<br>
+							  		Windows 8<br>
+							  		Linux Ubuntu<br>
+							  		Linux Lite<br>
+							  		Silverlight<br>
+							  		Lubuntu<br>
 							  		</strong>
-							  		Ajunto a ello se encuentran los respectivos manuales de instalacion.
+							  		Ajunto a ello se encuentran los respectivos manuales de instalación.
 							  		<br>
-							  		En <strong>Logica de programacion</strong> Se encuentra el uso de un programa elaborado en el lenguaje JAVA donde se realiza un menu en el cual adjuntaremos el respectivo sitio web.
-							  		La estructura grafica se baso en el uso de JFrame para la interfaz grafica del sitio
+							  		En <strong>Lógica de programación</strong> Se encuentra el uso de un programa elaborado en el lenguaje JAVA donde se realiza un menú en el cual adjuntaremos el respectivo sitio web.
+							  		La estructura gráfica se baso en el uso de JFrame para la interfaz gráfica del sitio
 							  	</p>
 							  </div>
 							  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-							  	<p>
+							  	<p align="justify" >
 							  		<br>
 							  		<strong>Objetivos generales</strong>
 							  		<strong>
-							  			<li>Poner en produccion el conocimiento adquirido durante nuestra etapa de estudio</li>
+							  			<li>Poner en producción el conocimiento adquirido durante nuestra etapa de estudio</li>
 							  			<li>Conocer nuevas herramientas para los diferentes campos de la ingeniera en sistemas</li>
-							  			<li>Unir los diferentes trabajos en uno para dar a conocer un solo resultado, producto de 3 de areas distintas</li>
+							  			<li>Unir los diferentes trabajos en uno para dar a conocer un solo resultado, producto de 3 de áreas distintas</li>
 							  		</strong>
 							  	</p>
 							  </div>
@@ -110,7 +114,7 @@ setlocale(LC_TIME, 'es_ES');
 				<div class="card col-md-12">
 			  		<div class="card-body">
 			    		<center>
-			    			<strong>Derechos reservados © Fundacion universitaria San Mateo</strong>
+			    			<strong>Derechos reservados © Fundación universitaria San Mateo</strong>
 			    		</center>
 			  		</div>
 				</div>
