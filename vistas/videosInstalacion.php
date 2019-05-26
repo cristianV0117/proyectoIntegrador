@@ -5,6 +5,8 @@
 	<title>Videos de instalación</title>
 	<link rel="stylesheet" type="text/css" href="../externos/bootstrap4/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../publico/css/estilosHome.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="trabajo" content="Cristian Vasquez - Nicolas Maldonado - Cristian Briñez">
 	<meta name="Autor" content="Cristian Camilo Vasquez Osorio">
 </head>
 <body>
@@ -39,7 +41,7 @@
 			  	<a class="nav-link" id="pills-silver-tab" data-toggle="pill" href="#pills-silver" role="tab" aria-controls="pills-silver" aria-selected="false" >SilverLight</a>
 			  </li>
 			  <li class="nav-item" >
-			  	<a class="nav-link" id="pills-lubuntu-tab" data-toggle="pill" href="$pills-lubuntu" role="tab" aria-controls="pills-lubuntu" aria-selected="false" >Lubuntu</a>
+			  	<a class="nav-link" id="pills-lubuntu-tab" data-toggle="pill" href="#pills-lubuntu" role="tab" aria-controls="pills-lubuntu" aria-selected="false" >Lubuntu</a>
 			  </li>
 			</ul>
 			<div class="tab-content" id="pills-tabContent">

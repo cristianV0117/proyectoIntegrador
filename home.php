@@ -70,13 +70,9 @@ setlocale(LC_TIME, 'es_ES');
 							<div class="tab-content" id="nav-tabContent">
 							  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 							  	<P align="justify">
-							  		<br>
 							  		Este trabajo es con fines educativos en el cual se podrá apreciar 3 áreas en el campo de la ingeniería en sistemas.
-							  		<br>
 									En <strong>introducción al hardware </strong> Se tendrá 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un vídeo para el mantenimiento preventivo y un formato de mantenimiento preventivo.
-									<br>
 									En <strong>Sistemas operativos</strong> Se tendrá 5 vídeos de instalación de diferentes sistemas operativos los cuales, en este caso son:
-							  		<br>
 							  		<strong>
 							  		Windows 10<br>
 							  		Windows 8<br>
@@ -86,7 +82,6 @@ setlocale(LC_TIME, 'es_ES');
 							  		Lubuntu<br>
 							  		</strong>
 							  		Ajunto a ello se encuentran los respectivos manuales de instalación.
-							  		<br>
 							  		En <strong>Lógica de programación</strong> Se encuentra el uso de un programa elaborado en el lenguaje JAVA donde se realiza un menú en el cual adjuntaremos el respectivo sitio web.
 							  		La estructura gráfica se baso en el uso de JFrame para la interfaz gráfica del sitio
 							  	</p>

@@ -6,6 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="../externos/bootstrap4/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../publico/css/estilosHome.css">
 	<link rel="stylesheet" type="text/css" href="../externos/fontawesome/css/all.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="trabajo" content="Cristian Vasquez - Nicolas Maldonado - Cristian Briñez">
 	<meta name="Autor" content="Cristian Camilo Vasquez Osorio">
 </head>
 <body>
@@ -27,19 +29,16 @@
 			<table class="table" >
 				<thead align="center" class="thead-dark" >
 					<tr>
-						<th>#</th>
 						<th>Tipo</th>
 						<th>Visualizar</th>
 					</tr>
 				</thead>
 				<tbody align="center" >
 					<tr>
-						<td><strong>1</strong></td>
 						<td><strong>Preventivo</strong></td>
 						<td><a href="#"><i class="fas fa-eye fa-lg"></a></i></td>
 					</tr>
 					<tr>
-						<td><strong>2</strong></td>
 						<td><strong>Correctivo</strong></td>
 						<td><a target="_blank" href="../media/casos_correctivos.pdf"><i class="fas fa-eye fa-lg"></a></i></td>
 					</tr>
