@@ -40,7 +40,7 @@
 					</tr>
 					<tr>
 						<td><strong>Correctivo</strong></td>
-						<td><a target="_blank" href="../media/casos_correctivos.pdf"><i class="fas fa-eye fa-lg"></a></i></td>
+						<td><a target="_blank" href="https://www.calameo.com/read/005930539e0ebb20536d8"><i class="fas fa-eye fa-lg"></a></i></td>
 					</tr>
 				</tbody>
 			</table>

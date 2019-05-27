@@ -74,6 +74,7 @@ setlocale(LC_TIME, 'es_ES');
 									En <strong>introducción al hardware </strong> Se tendrá 2 manuales de mantenimiento. Preventivo y correctivo adjunto a ello un vídeo para el mantenimiento preventivo y un formato de mantenimiento preventivo.
 									En <strong>Sistemas operativos</strong> Se tendrá 5 vídeos de instalación de diferentes sistemas operativos los cuales, en este caso son:
 							  		<strong>
+							  		<br>
 							  		Windows 10<br>
 							  		Windows 8<br>
 							  		Linux Ubuntu<br>

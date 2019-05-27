@@ -49,7 +49,7 @@
 			  	<div class="text-center" >
 				  	<strong>Video de instalación de Windows 10</strong>
 				  	<br>
-				  	<a target="_blank" href="../media/manual_instalacion_windows_10.pdf" >Manual de la instalación de Windows 10</a>
+				  	<a target="_blank" href="https://www.calameo.com/read/00593053919974c960368" >Manual de la instalación de Windows 10</a>
 				  	<hr>
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/CsmYhdvmqGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
@@ -59,7 +59,7 @@
 			  	<div class="text-center" >
 				  	<strong>Video de instalación de Windows 8.1</strong>
 				  	<br>
-				  	<a target="_blank" href="#" >Manual de la instalación de Windows 8</a>
+				  	<a target="_blank" href="https://www.calameo.com/read/005930539dde377e639c3" >Manual de la instalación de Windows 8</a>
 				  	<hr>
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/aJ10s8Ai3Ik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
@@ -69,7 +69,7 @@
 			  	<div class="text-center" >
 				  	<strong>Video de instalación de Linux Ubuntu</strong>
 				  	<br>
-				  	<a target="_blank" href="../media/instalacion_de_ubuntu_manual.pdf" >Manual de la instalación de Ubuntu</a>
+				  	<a target="_blank" href="https://www.calameo.com/read/005930539ae622bdf38a3" >Manual de la instalación de Ubuntu</a>
 				  	<hr>
 				  	<iframe width="600" height="315" src="https://www.youtube.com/embed/xsHCL_EZNTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
@@ -78,7 +78,7 @@
 			  	<div class="text-center" >
 			  		<strong>Video de instalación de Linux Lite</strong>
 			  		<br>
-			  		<a target="_blank" href="../media/instalacion_de_lite_manual.pdf" >Manual de instalación de Linux Lite</a>
+			  		<a target="_blank" href="https://www.calameo.com/read/0059305398103e1fd570e" >Manual de instalación de Linux Lite</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/W_S3J5oNfFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  	</div>
@@ -87,7 +87,7 @@
 			  	<div class="text-center" >
 			  		<strong>Video de instalación de SilverLight</strong>
 			  		<br>
-			  		<a target="_blank" href="../media/manual_de_instalacion_de_silverlight.pdf" >Manual de la instalación de SilverLight</a>
+			  		<a target="_blank" href="https://www.calameo.com/read/005930539576776f4adc6" >Manual de la instalación de SilverLight</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/LJRrUHJHvuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  	</div>
