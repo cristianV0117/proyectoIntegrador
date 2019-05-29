@@ -36,11 +36,11 @@
 				<tbody align="center" >
 					<tr>
 						<td><strong>Preventivo</strong></td>
-						<td><a href="#"><i class="fas fa-eye fa-lg"></a></i></td>
+						<td><a target="_blank" href="https://www.calameo.com/read/005930539daaf0d4af4a5"><i class="fas fa-eye fa-lg"></a></i></td>
 					</tr>
 					<tr>
 						<td><strong>Correctivo</strong></td>
-						<td><a target="_blank" href="https://www.calameo.com/read/005930539e0ebb20536d8"><i class="fas fa-eye fa-lg"></a></i></td>
+						<td><a target="_blank" href="https://www.calameo.com/read/005930539e308fbb9070c"><i class="fas fa-eye fa-lg"></a></i></td>
 					</tr>
 				</tbody>
 			</table>
