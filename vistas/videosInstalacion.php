@@ -96,7 +96,7 @@
 			  	<div class="text-center" >
 			  		<strong>Video de instalación de Lubuntu</strong>
 			  		<br>
-			  		<a href="#">Manual de la instalación de Lubuntu</a>
+			  		<a href="https://www.calameo.com/read/005930539d2ef6da2a1bf">Manual de la instalación de Lubuntu</a>
 			  		<hr>
 			  		<iframe width="600" height="315" src="https://www.youtube.com/embed/DvODxWODC34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			  	</div>
